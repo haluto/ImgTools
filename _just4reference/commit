@@ -1,0 +1,2 @@
+git remote add origin https://github.com/haluto/python.git
+git push -u origin master

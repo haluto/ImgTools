@@ -1,4 +1,7 @@
-import imgutil as imgutil
+#!/usr/bin/python
+#coding=utf-8
+
+from imgutils import imgutil
 import sys
 import os
 import getopt
